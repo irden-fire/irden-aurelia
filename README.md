@@ -3,6 +3,14 @@
 ## Getting Started
 
 Before you start, make sure you have a working [NodeJS](http://nodejs.org/) environment, preferably with NPM 3.
+```shell
+curl https://raw.githubusercontent.com/creationix/nvm/v0.11.1/install.sh | bash
+source ~/.profile
+nvm install 5.5
+nvm use 5.5
+npm install 
+npm run dev
+```
 
 From the project folder, execute the following command:
 
