@@ -50,3 +50,6 @@ npm run test
 ```
 
 > **Note**: The e2e tests aren't working yet
+=======
+# irden-aurelia
+Aurelia based land page
